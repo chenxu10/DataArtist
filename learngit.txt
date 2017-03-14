@@ -1,0 +1,44 @@
+# 在window上安装Git
+# 下载地址
+https://git-for-windows.github.io
+
+# 在Git Bash上自报家门
+$ git config --global user.name "XuShen"
+$ git config --global user.email "email@example.com"
+
+# 创建一个learngit文件夹
+# 导入工作目录
+cd e:/
+# 创建文件夹
+mkdir DataArtist
+# 导入文件夹地址
+cd DataArtist
+# 显示当前地址
+pwd
+
+# 创建一个文件并把文件放入到版本库
+# 创建文件Ch3Ex.txt
+# 把文件添加到仓库
+git add Ch3Ex.txt
+# 把文件提交到仓库
+git commit -m "wrote a Ch3Ex file"
+
+# 修改文件内容，掌握状态与改的东西
+# git status掌握仓库目前的状态
+git status
+# git diff看看修改的内容
+git diff
+
+# 远程仓库出现：Github登场
+
+
+
+
+
+
+# 通过git init把目录变成git可以管理的仓库
+git init把目录变成git可以管理的仓库
+
+git add readme.txt
+git 
+
