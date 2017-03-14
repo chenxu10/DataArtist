@@ -36,6 +36,10 @@ Git是世界上最先进的分布式版本管理系统。
 
 ## 远程仓库出现：Github登场
 
+![shenxugit](E:\Xu\Images\shenxugit.png)
+
+
+
 Git是分布式版本管理系统，同一个Git仓库，可以分布到不同的机器上。
 
 Github提供仓库托管服务，注册github账号就可以免费获得Git远程仓库。
