@@ -36,7 +36,7 @@ Git是世界上最先进的分布式版本管理系统。
 
 ## 远程仓库出现：Github登场
 
-![shenxugit](E:\Xu\Images\shenxugit.png)
+![shenxugit](E:/Xu/Images/shenxugit.png)
 
 
 
