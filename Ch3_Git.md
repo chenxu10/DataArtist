@@ -1,4 +1,4 @@
-# 第三关：小白的Git与Github入门之路
+# 第三关：小白的Git与Github入门之路(Push and Pull)
 
 ## Git简介
 
@@ -47,23 +47,34 @@ Github提供仓库托管服务，注册github账号就可以免费获得Git远�
 
 ## 添加远程仓库，并把本地内容推送到远程仓库
 
-
++ Create new repistory
++ Create a readme.md
++ Push
++ Modfy readme.md add hyperlink
++ Add and commit
++ Push again
 
 ## Fork别人的库以及克隆这个库到本地
 
++ Fork repository
++ Clone repository to local
++ Pull request
 
+## 分支管理
 
-
++ 创建分支dev
++ 提交并合并到Master分支
++ 切换回Master分支并合并分支到Master分支
++ 删除dev分支
 
 ## Github可以用来做些什么？
 
-
-
-## 版本管理与标签管理
-
-
-
-## 分支管理
++ 借助GitStats进行编程的刻意练习统计
++ 技术类图书的写作
++ 健身:[hoosin/EveryDaySport · GitHub**](https://link.zhihu.com/?target=https%3A//github.com/hoosin/EveryDaySport)
++ Github+Jekyll进行博客与个人主页的搭建
++ Openscience
++ 找到有用的第三方库和包
 
 
 
